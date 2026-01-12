@@ -2,12 +2,6 @@
 
 A complete **Relational Database Management System (RDBMS) built from scratch** in Python, featuring SQL parsing, storage engine, indexing, constraints, and a modern web-based inventory management application.
 
-![Python](https://img.shields.io/badge/Python-77.1%25-3776ab?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-19.7%25-3178c6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-0.7%25-f7df1e?style=flat&logo=javascript&logoColor=black)
-![CSS](https://img.shields.io/badge/CSS-2.5%25-1572b6?style=flat&logo=css3&logoColor=white)
-
-
 ## Project Overview
 
 This project demonstrates the implementation of a functional database system with:
