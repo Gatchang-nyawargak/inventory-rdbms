@@ -7,6 +7,7 @@ A complete **Relational Database Management System (RDBMS) built from scratch** 
 ![JavaScript](https://img.shields.io/badge/JavaScript-0.7%-yellow.svg)
 ![CSS](https://img.shields.io/badge/CSS-2.5%-purple.svg)
 
+
 ## Project Overview
 
 This project demonstrates the implementation of a functional database system with:
@@ -19,7 +20,7 @@ This project demonstrates the implementation of a functional database system wit
 
 ## Features
 
-### 🔧 Core Database Features
+### Core Database Features
 - **Table Creation** with typed columns (INT, VARCHAR, FLOAT, BOOLEAN, DATETIME)
 - **Primary Keys** with uniqueness enforcement
 - **Unique Constraints** with validation
@@ -185,27 +186,3 @@ curl -X POST http://localhost:8000/api/products \
     "sku": "LAP001"
   }'
 ```
-
-## Learning Outcomes
-
-This project demonstrates:
-
-### Database Concepts
-- **Schema Design** with proper normalization
-- **Indexing Strategy** for performance optimization
-- **Query Processing** pipeline implementation
-- **Constraint Enforcement** and data integrity
-- **Transaction Management** basics
-
-### Software Engineering
-- **Modular Architecture** with separation of concerns
-- **API Design** following REST principles
-- **Error Handling** across all system layers
-- **Testing Strategy** through interactive interfaces
-- **Documentation** and code organization
-
-### Full-Stack Development
-- **Backend Services** with database integration
-- **Frontend Development** with modern React
-- **System Integration** between all components
-- **User Experience** design and implementation
